@@ -1,0 +1,5 @@
+full_name=input("Enter your full name:")
+username=full_name.strip()
+username=username.lower()
+username='_'.join(username.split())
+print("your username:",username)

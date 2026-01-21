@@ -1,0 +1,9 @@
+This module introduces you to programming, 
+the basic skill of every computer scientist. 
+Its aims are (1) to teach programming concepts, 
+including data types, variables, values, functions,
+function calls, parameters, return statements, conditionals, iteration and recursion; and 
+(2) to develop your skills in algorithmic thinking, analyzing and 
+creating algorithms including sorts and searches; 
+understanding and writing pseudocode; writing docstrings and comments; 
+and functional decomposition – breaking down a larger problem into simpler chunks.

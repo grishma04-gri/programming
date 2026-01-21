@@ -1,0 +1,5 @@
+The quick brown fox.
+Demonstrate an ability to use basic control flow syntax to produce working solutions to problems in a programming language.
+Select and / or create algorithms to solve specific and generalised problems.
+Understand and explain simple algorithms for solving solve specific and generalised problems.
+Demonstrate an ability to use more advanced programming features.
